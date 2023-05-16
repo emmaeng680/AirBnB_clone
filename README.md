@@ -65,6 +65,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- **Emmanuel Oppong**) : 
+- **Emmanuel Oppong** : 
 
 <img align="center" src="img/unnamed.png" alt="footer" width="150"  height="150"/>
